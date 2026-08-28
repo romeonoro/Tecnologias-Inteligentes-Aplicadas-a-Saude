@@ -19,3 +19,5 @@
 
 ### 6. Pattern Recognition (Reconhecimento de Padrões)
 *   **Definição:** Campo da IA que foca no reconhecimento de regularidades ou tendências em dados (como imagens, voz ou textos). O objetivo é treinar sistemas para classificar ou agrupar dados automaticamente (ex: reconhecimento facial).
+
+<img width="2994" height="1396" alt="mapaMentalTIAS" src="https://github.com/user-attachments/assets/ee6a5634-3051-42f8-b9c8-a7f8f2a7e28a" />
